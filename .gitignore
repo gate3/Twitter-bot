@@ -1,0 +1,7 @@
+#env folder
+.env
+
+#node_modules
+node_modules
+
+google-sheets-key.json
