@@ -13,4 +13,4 @@ The bot is suppose to maintain a session and continously listen to the predefine
 
 ## How to install
 
-Just clone the repo and do npm install to install dependencies. After that run npm start to run the program.
+Just clone the repo and do npm install to install dependencies. After that run npm start to run the program. You will need to supply your own google sheets authentication. Please set it as an environment variable with the key SHEETS_CRED_LOCATION
